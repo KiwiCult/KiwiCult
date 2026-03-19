@@ -10,12 +10,7 @@ C# | R | Python
 Academic projects here  
 Other personal projects (and a bit of chaos) live on a separate account  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiwiCult&show_icons=true&theme=transparent"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwiCult&layout=compact&theme=transparent"/>
-</p>
+
 <p align="center">
   <img src="https://media.tenor.com/FcqKy4Kj7XOK0hCW4g/tenor.gif" width="250"/>
 </p>
