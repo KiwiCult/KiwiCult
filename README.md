@@ -1,13 +1,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&speed=40&lines=Biology+→+Bioinformatics;Learning+as+I+go"/>
-</p>
-
+ 
 Turning biological questions into code (slowly)  
 
 C# | R | Python  
 
 Academic projects here  
-Other personal projects (and a bit of chaos) live on a separate account
+Other personal projects (and a bit of chaos) live on a separate account  
+
+</p>
 
 <!--
 **KiwiCult/KiwiCult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
