@@ -9,9 +9,6 @@ C# | R | Python
 Academic projects here  
 Other personal projects (and a bit of chaos) live on a separate account
 
-
-<img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="350"/>
-
 <!--
 **KiwiCult/KiwiCult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
