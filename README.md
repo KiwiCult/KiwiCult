@@ -1,5 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&lines=Biology+→+Bioinformatics;Learning+as+I+go;Gene+expression+%26+ML"/>
-Biology → Bioinformatics 🧬  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&speed=40&lines=Biology+→+Bioinformatics;Learning+as+I+go"/>
+</p>
+
 Turning biological questions into code (slowly)  
 
 C# | R | Python  
