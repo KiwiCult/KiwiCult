@@ -1,10 +1,10 @@
 Biology → Bioinformatics 🧬  
 Turning biological questions into code (slowly)  
 
-C# | R | Python 
+C# | R | Python  
 
 Academic projects here  
-Other personal projects (and chaos) lives on a separate account
+Other personal projects (and a bit of chaos) live on a separate account
 
 <!--
 **KiwiCult/KiwiCult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
