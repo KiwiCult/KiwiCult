@@ -9,7 +9,6 @@ C# | R | Python
 
 Academic projects here  
 Other personal projects (and a bit of chaos) live on a separate account  
-
 </p>
 
 <!--
