@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&speed=40&center=true&vCenter=true&lines=Biology+→+Bioinformatics;Learning+as+I+go"/>
 </p>
-
 <p align="center">────────────────────────────</p>
-
 <p align="center">
 Turning biological questions into code (slowly)<br><br>
 C# | R | Python<br><br>
