@@ -2,18 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&speed=40&lines=Biology+→+Bioinformatics;Learning+as+I+go"/>
 </p>
 
-<p align="center">──────────</p> 
+<p align="center">──────────────</p>
 
 <p align="center">
-
-Turning biological questions into code (slowly)  
-
-C# | R | Python  
-
-Academic projects here  
-Other personal projects (and a bit of chaos) live on a separate account  
-
+Turning biological questions into code (slowly)<br><br>
+C# | R | Python<br><br>
+Academic projects here<br>
+Other personal projects (and a bit of chaos) live on a separate account
 </p>
+
+<br>
 
 <p align="center">
   <img src="psyduck2.gif" width="180"/>
