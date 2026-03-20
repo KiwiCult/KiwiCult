@@ -12,7 +12,7 @@ Other personal projects (and a bit of chaos) live on a separate account
 <br>
 
 <p align="center">
-  <img src="psyduck2.gif" width="180"/>
+  <img src="psyduck2.gif" width="150"/>
 </p>
 
 <!--
