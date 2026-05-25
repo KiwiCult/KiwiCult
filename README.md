@@ -10,9 +10,6 @@ Academic projects here<br>
 
 <br>
 
-<p align="center">
-  <img src="psyduck2.gif" width="150"/>
-</p>
 
 <!--
 **KiwiCult/KiwiCult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
