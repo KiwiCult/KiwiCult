@@ -4,9 +4,8 @@
 <p align="center">────────────────────────────</p>
 <p align="center">
 Turning biological questions into code (slowly)<br><br>
-C# | R | Python<br><br>
+R | Python<br><br>
 Academic projects here<br>
-Other personal projects (and a bit of chaos) live on a separate account
 </p>
 
 <br>
